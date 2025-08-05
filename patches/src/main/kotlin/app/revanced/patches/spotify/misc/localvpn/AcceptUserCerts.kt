@@ -1,4 +1,4 @@
-package app.revanced.patches.spotify.security.certificatepinningbypass
+package app.revanced.patches.spotify.misc.localvpn
 
 import app.revanced.patcher.data.BytecodeContext
 import app.revanced.patcher.data.ResourceContext
